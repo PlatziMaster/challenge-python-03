@@ -12,6 +12,17 @@ Aclaraciones:
 - Utiliza Python 3 para resolver el reto
 - ¡No leas las soluciones de tus compañeros! Es importante que te retes a ti mismo y pruebes tus habilidades
 
+### Pistas
+
+- Abre el archivo con "encoding= 'utf-8'" para evitar errores:
+
+```python
+with open('encoded.txt', 'r', encoding='utf-8') as f:
+    # code
+```
+
+- El mensaje solo está formado por letras minúsculas
+
 ### Enviar solución
 
 Debes hacer un "Fork" de este proyecto, revolver los problemas y crear un Pull Request hacia este repositorio.

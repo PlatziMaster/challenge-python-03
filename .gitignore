@@ -1,6 +1,7 @@
 # Problem resolved archives
 
 generate_text.py
+resolve.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
